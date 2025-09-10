@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Staci Tranquille</title>
+</head>
+<body style=" background: lightpink">
+
+<h1 style="font-family:'Pixel Emulator'; color:white;background: lightcoral"; align="center">Staci Tranquille</h1>
+<img src="moiii.jpg" height="580" width="385" align="right" ;/>
+ <div style="background: lightcoral; width: 1000px; height: 580px;">
+   <h2 style="font-family:'Pixel Emulator'; color: white"; align="center"> Bio </h2>
+   <p style=" font-family: 'Pixelify Sans'; color: white;">
+     Hi ! My name is Staci Tranquille, I am a junior computer science student at North Carolina A&T State University.
+     My interests regarding technology include Robotics, Cybersecurity & AI. Outside of tech I enjoy movies
+     (I'm something of a cinephile), reality TV, playing soccer, and spoiling my cat venus.
+   </p>
+   <h2 style="font-family:'Pixel Emulator'; color: white"; align="center"> My Schedule </h2>
+   <table style="  font-family: 'Pixel Emulator'; width:90%"; align="center">
+     <tr>
+       <th style="color: white"> Class Name </th>
+       <th style="color: white"> Days </th>
+       <th style="color: white"> Time </th>
+     </tr>
+     <tr>
+       <td style="color: white"; align="left">Internet Systems</td>
+       <td style="color: white"; align="center"> TTH </td>
+       <td style="color: white"; align="center"> 09:30 AM - 10:45 AM </td>
+     </tr>
+     <tr>
+       <td style="color: white"; align="left">AI & Machine Learning </td>
+       <td style="color: white"; align="center"> TTH </td>
+       <td style="color: white"; align="center"> 02:00 PM - 03:15 PM </td>
+     </tr>
+     <tr>
+       <td style="color: white"; align="left">Applied Network Security</td>
+       <td style="color: white"; align="center"> TTH </td>
+       <td style="color: white"; align="center"> 03:30 PM - 04:45 PM </td>
+     </tr>
+     <tr>
+       <td style="color: white"; align="left">Game Design</td>
+       <td style="color: white"; align="center"> MWF </td>
+       <td style="color: white"; align="center"> 05:00 PM - 05:50 PM </td>
+     </tr>
+     <tr>
+       <td style="color: white"; align="left">Information Privacy and Security</td>
+       <td style="color: white"; align="center"> TTH </td>
+       <td style="color: white"; align="center"> 12:30 PM - 01:45 PM </td>
+     </tr>
+   </table>
+ </div>
+
+<a href="introduction.html">
+  <h3 style="font-family:'Pixel Emulator'; color:white" align="right"> Next Page -> </h3>
+</a>
+<a href="little_prince.html">
+  <h3 style="font-family:'Pixel Emulator'; color:white" align="right"> Little Prince -> </h3>
+</a>  
+</body>
+</html>
+
+
