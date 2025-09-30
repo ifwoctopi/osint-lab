@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /game.php
+
+Sitemap: https://happyhopper.org/sitemap.xml

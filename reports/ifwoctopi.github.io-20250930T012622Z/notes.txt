@@ -1,0 +1,5 @@
+OSINT-LAB SNAPSHOT
+    Domain: ifwoctopi.github.io
+    When: 2025-09-30T01:26:24.246288+00:00
+    Tools: requests, openssl, whois
+    
